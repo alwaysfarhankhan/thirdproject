@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#navbar{
+        height: 60px;
+       background-color: #0f1111;
+        
+}
+
+button {
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    text-decoration: none;
+}
+
+#Account{
+    text-decoration: none;
+    color: white;
+}
+
+#Cart{
+    text-decoration: none;
+    color: white;
+}
+
+#Contact{
+    text-decoration: none;
+    color: white;
+}
+a{
+    margin-right: 140px;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 3px solid aqua;
+    display: inline-block;
+}
+
+footer{
+   background-color: #0f1111;
+   color: white;
+   text-align: center;
+}
+
+#contentarea{
+    height: 250px;
+}
